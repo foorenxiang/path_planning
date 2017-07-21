@@ -20,7 +20,7 @@ Instructions:  <br  />
 2. Open new terminal and go to the the root of your catkin workspace  <br  />
   $catkin_make  <br  />
   $source ./devel/setup.bash  <br  />
-  $rosrun path_planner env_node  <br  />
+  $rosrun path_planning env_node  <br  />
 3. open new terminal  <br  />
   $rosrun rviz rviz  <br  />
 4. In the RVIZ window, change:  <br  />
